@@ -5,6 +5,7 @@ This mod increases the buffs duration, and grants the starter classes minor buff
 
 How to install:
 You'll need modengine2
+
 Download the [zip](https://github.com/Sandormate0513/Elden_Ring_Mod_by_M8/archive/refs/heads/main.zip) and put it's contents in your moding folder
 
 Changed:
@@ -18,15 +19,18 @@ Changed:
 - Vagabond Knight Helm, Gauntlets, Greaves each grant 1hp/s. The Vagabond Kinight Armor (chest piece) grants 1%hp/s (Full set grants 3HP/s, 1%HP/s) 
 - War cry skill: also grants +8% max HP
 - Land of Reeds sett: Each armor piece raises stamina recovery speed (Full sett grants the same amount as Green Turtle Talisman)
+- Prisoner Iron Mask +10% soul gain, Prisoner Clothing, Prisoner Trousers +5% soul gain
+- Bandit Manchettes, Bandit Boots increases Item Discovery by 10, Bandit Garb increases Item Discovery by 20, Bandit Mask Item Discovery by 35
+
 
 Starter class summary:
 - Hero: Warcry buff (+8% max hp)
-- Bandit: WIP
+- Bandit: Item discovery (+75)
 - Astrologer: set FP regen (4fp/s)
-- Warrior: WIP
-- Prisoner: WIP
+- Warrior: consecutive attack + dmg WIP
+- Prisoner: increased rune gain (+20%)
 - Confessor: passive aoe heal, note: only Confessor Hood (Altered) gives 4hp/s
 - Wretch: Warcry buff (+8% max hp)
-- Vagabond: set hp regen
-- Prophet: WIP (3HP/s, 1%HP/s)
+- Vagabond: set hp regen (3HP/s, 1%HP/s)
+- Prophet: WIP
 - Samurai: Stamina regen increase (basicly a Green Turtle Talisman)
