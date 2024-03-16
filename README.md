@@ -3,6 +3,10 @@ Elden Ring Mod by M8
 
 This mod increases the buffs duration, and grants the starter classes minor buffs.
 
+How to install:
+You'll need modengine2
+Download the zip and put it's contents in your moding folder
+
 Changed:
 - Effects last for 25h
 - Old Lord's Talisman: Grants 2% FP/s insted of extending spell efect duration
