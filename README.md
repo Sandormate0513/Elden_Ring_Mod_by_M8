@@ -5,7 +5,7 @@ This mod increases the buffs duration, and grants the starter classes minor buff
 
 How to install:
 You'll need modengine2
-Download the zip and put it's contents in your moding folder
+Download the [zip](https://github.com/Sandormate0513/Elden_Ring_Mod_by_M8/archive/refs/heads/main.zip) and put it's contents in your moding folder
 
 Changed:
 - Effects last for 25h
