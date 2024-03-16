@@ -32,5 +32,5 @@ Starter class summary:
 - Confessor: passive aoe heal, note: only Head piece gives 4hp/s
 - Wretch: Warcry buff (+8% max hp)
 - Vagabond: set hp regen (3HP/s, 1%HP/s)
-- Prophet: WIP
+- Prophet: Set increases faith by 4
 - Samurai: Stamina regen increase (basicly a Green Turtle Talisman)
