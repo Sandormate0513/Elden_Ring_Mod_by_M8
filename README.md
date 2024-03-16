@@ -29,7 +29,7 @@ Starter class summary:
 - Astrologer: set FP regen (4fp/s)
 - Warrior: Helmet extends roll invincibility but increases dmg taken (does not stack with similar effects)
 - Prisoner: increased rune gain (+20%)
-- Confessor: passive aoe heal, note: only Confessor Hood (Altered) gives 4hp/s
+- Confessor: passive aoe heal, note: only Head piece gives 4hp/s
 - Wretch: Warcry buff (+8% max hp)
 - Vagabond: set hp regen (3HP/s, 1%HP/s)
 - Prophet: WIP
