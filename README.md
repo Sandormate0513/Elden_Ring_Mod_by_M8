@@ -21,13 +21,13 @@ Changed:
 - Land of Reeds sett: Each armor piece raises stamina recovery speed (Full sett grants the same amount as Green Turtle Talisman)
 - Prisoner Iron Mask +10% soul gain, Prisoner Clothing, Prisoner Trousers +5% soul gain
 - Bandit Manchettes, Bandit Boots increases Item Discovery by 10, Bandit Garb increases Item Discovery by 20, Bandit Mask Item Discovery by 35
-
+- Blue Cloth Cowl (Warrior Helmet) extends roll invincibility but increases dmg taken (does not stack with similar effects)
 
 Starter class summary:
 - Hero: Warcry buff (+8% max hp)
 - Bandit: Item discovery (+75)
 - Astrologer: set FP regen (4fp/s)
-- Warrior: consecutive attack + dmg WIP
+- Warrior: Helmet extends roll invincibility but increases dmg taken (does not stack with similar effects)
 - Prisoner: increased rune gain (+20%)
 - Confessor: passive aoe heal, note: only Confessor Hood (Altered) gives 4hp/s
 - Wretch: Warcry buff (+8% max hp)
