@@ -12,7 +12,7 @@ Changed:
 - Effects last for 25h
 - Old Lord's Talisman: Grants 2% FP/s insted of extending spell efect duration
 
-- Confessor Hood (Altered): now grants 4hp/s to nearby allies and self.
+- Confessor Hood: now grants 4hp/s to nearby allies and self.
 - Furled Finger's Trick-Mirror Grants: the wearer 30% increase to all incoming healing
 - Host's Trick-Mirror: +100% incoming healing when below 20% max HP
 - Astrologer sett: Each piece grants 1FP/s (Full set grants total of 4FP/s)
