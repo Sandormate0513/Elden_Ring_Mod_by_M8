@@ -17,20 +17,20 @@ Changed:
 - Host's Trick-Mirror: +100% incoming healing when below 20% max HP
 - Astrologer sett: Each piece grants 1FP/s (Full set grants total of 4FP/s)
 - Vagabond Knight Helm, Gauntlets, Greaves each grant 1hp/s. The Vagabond Kinight Armor (chest piece) grants 1%hp/s (Full set grants 3HP/s, 1%HP/s) 
-- War cry skill: also grants +8% max HP
+- Barbaric Roar skill: also grants +8% max HP
 - Land of Reeds sett: Each armor piece raises stamina recovery speed (Full sett grants the same amount as Green Turtle Talisman)
 - Prisoner Iron Mask +10% soul gain, Prisoner Clothing, Prisoner Trousers +5% soul gain
 - Bandit Manchettes, Bandit Boots increases Item Discovery by 10, Bandit Garb increases Item Discovery by 20, Bandit Mask Item Discovery by 35
 - Blue Cloth Cowl (Warrior Helmet) extends roll invincibility but increases dmg taken (does not stack with similar effects)
 
 Starter class summary:
-- Hero: Warcry buff (+8% max hp)
+- Hero: WIP
 - Bandit: Item discovery (+75)
 - Astrologer: set FP regen (4fp/s)
 - Warrior: Helmet extends roll invincibility but increases dmg taken (does not stack with similar effects)
 - Prisoner: increased rune gain (+20%)
 - Confessor: passive aoe heal, note: only Head piece gives 4hp/s
-- Wretch: Warcry buff (+8% max hp)
+- Wretch: Barbaric Roar buff (+8% max hp)
 - Vagabond: set hp regen (3HP/s, 1%HP/s)
 - Prophet: Set increases faith by 4
 - Samurai: Stamina regen increase (basicly a Green Turtle Talisman)
